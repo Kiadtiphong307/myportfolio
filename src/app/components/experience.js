@@ -10,7 +10,7 @@ export default function Experience() {
           <div className="hover:scale-110 transition duration-500 ease-in-out">
             <a href="https://www.cs.mju.ac.th/e-sports_sciweek/" target="_blank" rel="noopener noreferrer">
             <Image
-              src="/images/Rov-Web.png"
+              src="/images/rov-web.png"
               alt="Website"
               className="max-w-lg rounded-lg"
               width={1000}
