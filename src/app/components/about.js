@@ -3,13 +3,13 @@ export default function About() {
     <div>
       <div className="text-4xl font-bold pt-10 pb-4">About</div>
       <div className="text-2xl text-gray-300 p-4">
-        "A motivated and detail-oriented individual, committed to
+      &quot;A motivated and detail-oriented individual, committed to
         self-improvement by continuously seeking learning opportunities and new
         experiences to enhance my skills and knowledge across diverse fields.
         With a strong interest in the DevOps role, I am confident that this
         position will provide opportunities for professional growth and allow me
         to apply my expertise effectively in future projects, delivering
-        high-quality outcomes."
+        high-quality outcomes&quot;
       </div>
 
       <hr className="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700 w-1/2 mx-auto" />
@@ -56,11 +56,11 @@ export default function About() {
 
             <div className=" pr-10 mr-10">
                 <p className="pl-40 pt-10">
-                "
+                &quot;
                 สวัสดีครับ ผมชื่อเกียดทิพย์ วงศ์หมุ่ย นักศึกษาปี 3 สาขาวิทยาการคอมพิวเตอร์
                 จากมหาวิทยาลัยแม่โจ้ ผมเป็นคนที่มีความกระตือรือร้นและใส่ใจกับรายละเอียด
                 มุ่งมั่นที่จะพัฒนาตนเองโดยตลอดเวลา โดยการมองหาโอกาสในการเรียนรู้และประสบการณ์ใหม่
-                "
+                &quot;
                 </p>
             </div>
 
