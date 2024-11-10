@@ -8,9 +8,9 @@ export default function Experience() {
         <div className="flex flex-row pl-12 ">
           <div className="hover:scale-110 transition duration-500 ease-in-out">
             <Image
-              src="/images/rov-web.png"
+              src="/images/rov-web-com.png"
               alt="Website"
-              className="max-w-lg rounded-lg"
+              className="rounded-lg"
               width={1000}
               height={1000}
             />
