@@ -25,9 +25,9 @@ export default function Experience() {
                 Web Developer & UX/UI
               </p>
               <p className="mt-2 text-gray-400">
-                I worked as a web developer at E-Sport Science Week. I was
-                responsible for creating a website for the event. I used React
-                and Tailwind CSS to create the website.
+                I was a web developer and UX/UI designer for the E-Sport
+                Science Week67 event. I was responsible for creating the website
+                and designing the user interface and user experience.
               </p>
 
               <div className="pt-6 p-2">
@@ -48,3 +48,5 @@ export default function Experience() {
     </div>
   );
 }
+
+
