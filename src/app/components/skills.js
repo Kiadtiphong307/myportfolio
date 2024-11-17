@@ -19,7 +19,7 @@ const skillsData = [
   { name: "Docker", icon: "/images/docker-svgrepo-com.png" },
   { name: "Kubernetes", icon: "/images/kubernetes-svgrepo-com.png" },
   { name: "Figma", icon: "/images/figma-svgrepo-com.png" },
-  { name: "Linux", icon: "/images/Linux-svgrepo-com.png" },
+  { name: "Linux", icon: "/images/linux-svgrepo-com" },
 ];
 
 const SkillCard = ({ name, icon }) => (
