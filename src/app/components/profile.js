@@ -25,7 +25,7 @@ export default function Home() {
               alt="Instagram"
             />
             <SocialLink 
-              href="https://www.linkedin.com/in/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B8%8C%E0%B8%A1%E0%B8%B8%E0%B8%A2-57977a329/"
+              href="https://www.linkedin.com/in/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B9%8C%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%A1%E0%B8%B8%E0%B9%88%E0%B8%A2-57977a329/"
               imageSrc="/images/linkedin-network-communication-connection-internet-online-svgrepo-com.png"
               alt="LinkedIn"
             />
