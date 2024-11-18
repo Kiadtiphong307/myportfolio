@@ -5,7 +5,6 @@ const skillsData = [
   { name: "JavaScript", icon: "/images/js-svgrepo-com.png" },
   { name: "CSS", icon: "/images/css-3-svgrepo-com.png" },
   { name: "Python", icon: "/images/python-svgrepo-com.png" },
-  { name: "Go", icon: "/images/go-svgrepo-com.png" },
   { name: "React.js", icon: "/images/react-svgrepo-com.png" },
   { name: "Next.js", icon: "/images/next-dot-js-svgrepo-com.png" },
   { name: "Vue.js", icon: "/images/vue-svgrepo-com.png" },
@@ -15,9 +14,7 @@ const skillsData = [
   { name: "MySQL", icon: "/images/mysql-logo-svgrepo-com.png" },
   { name: "MongoDB", icon: "/images/mongodb-svgrepo-com.png" },
   { name: "Github", icon: "/images/github-color-svgrepo-com.png" },
-  { name: "Gitlab", icon: "/images/gitlab-svgrepo-com.png" },
   { name: "Docker", icon: "/images/docker-svgrepo-com.png" },
-  { name: "Kubernetes", icon: "/images/kubernetes-svgrepo-com.png" },
   { name: "Figma", icon: "/images/figma-svgrepo-com.png" },
   { name: "Linux", icon: "/images/linux-svgrepo-com.png" },
 ];
