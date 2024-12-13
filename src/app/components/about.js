@@ -6,13 +6,11 @@ export default function About() {
       </div>
 
       <div className="text-xl md:text-2xl text-gray-300 p-2 md:p-4">
-        &quot; A motivated and detail-oriented individual, committed to
-        self-improvement by continuously seeking learning opportunities and new
-        experiences to enhance my skills and knowledge across diverse fields.
-        With a strong interest in the <strong>Full-Stack Developer</strong>{" "}
-        role, I am confident that this position will provide opportunities for
-        professional growth and allow me to apply my expertise effectively in
-        future projects, delivering high-quality outcomes &quot;
+        &quot; 
+        ผมมีความสนใจในการแสวงหาประสบการณ์ใหม่ ๆ เพื่อพัฒนาทักษะและเสริมสร้างความรู้หลากหลายด้าน ด้วยความสนใจอย่างยิ่งในตำแหน่ง
+        <strong> Full-Stack Developer และ DevOps </strong> ซึ่งเชื่อมั่นว่าตำแหน่งนี้จะเป็นโอกาสสำคัญในการเติบโตในสายอาชีพ Developer 
+        พร้อมทั้งเปิดโอกาสและพัฒนาทักษะให้กับผมในอนาคต 
+        &quot;
       </div>
 
       <hr className="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700 w-full md:w-1/2 mx-auto" />
@@ -34,12 +32,12 @@ export default function About() {
 
                 <div>
                   <h3 className="text-xl md:text-2xl font-bold text-white">
-                    Maejo University
+                    มหาวิทยาลัยแม่โจ้
                   </h3>
                   <p className="text-lg md:text-xl text-gray-300">
-                    Bachelor of Science, Computer Science
+                    วิทยาศาสตรบัณฑิต, วิทยาการคอมพิวเตอร์
                   </p>
-                  <p className="mt-2 text-gray-400">2022 - Present</p>
+                  <p className="mt-2 text-gray-400">2022 - ปัจจุบัน</p>
                 </div>
               </div>
 
@@ -49,10 +47,10 @@ export default function About() {
                 </div>
                 <div>
                   <h3 className="text-xl md:text-2xl font-bold text-white">
-                    DekdeePittayakom School
+                    โรงเรียนเด็กดีพิทยาคม
                   </h3>
                   <p className="text-lg md:text-xl text-gray-300">
-                    Science - Mathematics Program
+                    สาขาวิชาวิทยาศาสตร์ - คณิตศาสตร์
                   </p>
                   <p className="mt-2 text-gray-400">2019 - 2021</p>
                 </div>
@@ -63,16 +61,16 @@ export default function About() {
           {/* Personal Description */}
           <div className="w-full lg:w-1/2 p-4 md:p-8 lg:p-10">
             <p className="text-base md:text-lg">
-              &quot; Hello, my name is Kiattipong Wongmui, a third-year student
-              in the Computer Science program at Maejo University. I am a
-              motivated and detail-oriented individual who is committed to
-              continuously improving myself by seeking learning opportunities
-              and new experiences to enhance my skills and knowledge in various
-              fields. I believe that the effort to develop myself will allow me
-              to apply my knowledge effectively in different tasks, especially
-              in the field of Computer Science, which I am particularly
-              passionate about. I am ready to face new challenges that will push
-              me to grow both academically and professionally. &quot;
+              &quot; 
+              
+              สวัสดีครับ ผมชื่อเกียรติ์ติพงษ์ วงศ์มุ่ย ปัจจุบันเป็นนักศึกษาชั้นปีที่ 3 สาขาวิชาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์ มหาวิทยาลัยแม่โจ้ 
+              ผมชอบมุ่งมั่นพัฒนาตนเอง และการแสวงหาโอกาสในการเรียนรู้และหาประสบการณ์ใหม่ ๆ  เพื่อเสริมสร้างทักษะและความรู้ในหลากหลายด้าน
+              ผมเชื่อมั่นว่าความพยายามในการพัฒนาตนเอง จะช่วยให้สามารถประยุกต์ใช้ความรู้ที่มีอย่างมีประสิทธิภาพในงานต่าง ๆ 
+              โดยเฉพาะการเขียนโปรแกรม และการหาเทคโนโลยีใหม่ๆมาใช้
+              ซึ่งเป็นสิ่งที่ชื่นชอบในการที่จะเรียนรู้ และ เผชิญกับความท้าทายใหม่ ๆ 
+              ที่จะช่วยผลักดันให้ผมเติบโตในสายงานของ Developer
+              
+              &quot;
             </p>
           </div>
         </div>
