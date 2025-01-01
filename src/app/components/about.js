@@ -50,7 +50,7 @@ export default function About() {
                     โรงเรียนเด็กดีพิทยาคม
                   </h3>
                   <p className="text-lg md:text-xl text-gray-300">
-                    สาขาวิชาวิทยาศาสตร์ - คณิตศาสตร์
+                    แผนวิทยาศาสตร์ - คณิตศาสตร์
                   </p>
                   <p className="mt-2 text-gray-400">2019 - 2021</p>
                 </div>
