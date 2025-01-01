@@ -6,11 +6,15 @@ export default function About() {
       </div>
 
       <div className="text-xl md:text-2xl text-gray-300 p-2 md:p-4">
-        &quot; 
-        ผมมีความสนใจในการแสวงหาประสบการณ์ใหม่ ๆ เพื่อพัฒนาทักษะและเสริมสร้างความรู้หลากหลายด้าน ด้วยความสนใจอย่างยิ่งในตำแหน่ง
-        <strong> Full-Stack Developer และ DevOps </strong> ซึ่งเชื่อมั่นว่าตำแหน่งนี้จะเป็นโอกาสสำคัญในการเติบโตในสายอาชีพ Developer 
-        พร้อมทั้งเปิดโอกาสและพัฒนาทักษะให้กับผมในอนาคต 
-        &quot;
+        &quot; Third-year Computer Science student at Maejo University, a highly
+        motivated and detail-oriented individual committed to continuous
+        self-improvement through learning and seeking new experiences. My
+        passion for Computer Science drives me to embrace challenges that foster
+        growth in both academic and professional aspects. I am particularly
+        interested in Full-stack Development and DevOps, which provide
+        opportunities to explore both the technical and operational aspects of
+        software development, enabling me to create efficient and scalable
+        solutions &quot;
       </div>
 
       <hr className="h-px my-4 bg-gray-200 border-0 dark:bg-gray-700 w-full md:w-1/2 mx-auto" />
@@ -32,12 +36,12 @@ export default function About() {
 
                 <div>
                   <h3 className="text-xl md:text-2xl font-bold text-white">
-                    มหาวิทยาลัยแม่โจ้
+                    Maejo University
                   </h3>
                   <p className="text-lg md:text-xl text-gray-300">
-                    วิทยาศาสตรบัณฑิต, วิทยาการคอมพิวเตอร์
+                    Factuly of Science, Computer Science
                   </p>
-                  <p className="mt-2 text-gray-400">2022 - ปัจจุบัน</p>
+                  <p className="mt-2 text-gray-400">2022 - Present</p>
                 </div>
               </div>
 
@@ -47,10 +51,10 @@ export default function About() {
                 </div>
                 <div>
                   <h3 className="text-xl md:text-2xl font-bold text-white">
-                    โรงเรียนเด็กดีพิทยาคม
+                    DekdeePittayakom School
                   </h3>
                   <p className="text-lg md:text-xl text-gray-300">
-                    แผนวิทยาศาสตร์ - คณิตศาสตร์
+                    Science - Mathematics
                   </p>
                   <p className="mt-2 text-gray-400">2019 - 2021</p>
                 </div>
@@ -58,21 +62,20 @@ export default function About() {
             </div>
           </div>
 
-          {/* Personal Description */}
+          {/* Focus */}
           <div className="w-full lg:w-1/2 p-4 md:p-8 lg:p-10">
-            <p className="text-base md:text-lg">
-              &quot; 
-              
-              สวัสดีครับ ผมชื่อเกียรติ์ติพงษ์ วงศ์มุ่ย ปัจจุบันเป็นนักศึกษาชั้นปีที่ 3 สาขาวิชาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์ มหาวิทยาลัยแม่โจ้ 
-              ผมชอบมุ่งมั่นพัฒนาตนเอง และการแสวงหาโอกาสในการเรียนรู้และหาประสบการณ์ใหม่ ๆ  เพื่อเสริมสร้างทักษะและความรู้ในหลากหลายด้าน
-              ผมเชื่อมั่นว่าความพยายามในการพัฒนาตนเอง จะช่วยให้สามารถประยุกต์ใช้ความรู้ที่มีอย่างมีประสิทธิภาพในงานต่าง ๆ 
-              โดยเฉพาะการเขียนโปรแกรม และการหาเทคโนโลยีใหม่ๆมาใช้
-              ซึ่งเป็นสิ่งที่ชื่นชอบในการที่จะเรียนรู้ และ เผชิญกับความท้าทายใหม่ ๆ 
-              ที่จะช่วยผลักดันให้ผมเติบโตในสายงานของ Developer
-              
-              &quot;
-            </p>
+            <div className="text-xl font-bold pb-6 text-white">
+              Focus
+            </div>
+            <ul className="list-disc list-inside text-base md:text-lg text-gray-300">
+              <li>Full-stack Development</li>
+              <li>DevOps</li>
+              <li>Efficient and scalable solutions</li>
+              <li>Continuous self-improvement</li>
+              <li>Embracing challenges</li>
+            </ul>
           </div>
+          
         </div>
       </div>
     </div>

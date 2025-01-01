@@ -32,12 +32,15 @@ export default function Experience() {
               </h3>
               
               <p className="text-lg md:text-xl text-gray-300">
-                Web Developer & UX/UI
+                Frontend Developer
               </p>
               
               <p className="text-base md:text-lg text-gray-400">
-              ผมทำหน้าที่และรับผิดชอบ เป็น Frontend และ UX/UI สำหรับการแข่งขัน E-Sport Science Week67 
-              เพื่อประชาสัมพันธ์การแข่งขันระหว่าง ROV และรายเอียดการแข่งขันทั้งหมด
+                <ul>
+                    <li> 1. Designed and developed web pages </li>
+                    <li> 2. Managed details and layout structure</li>
+                    <li> 3. Fixed bugs and optimized website performance</li>
+                </ul>
               </p>
 
               <div className="pt-4 md:pt-6">
@@ -49,7 +52,7 @@ export default function Experience() {
                     transform transition duration-300 hover:scale-105 hover:text-yellow-500
                     hover:shadow-lg hover:shadow-yellow-500/20"
                 >
-                  เข้าสู่เว็บไซต์
+                  Visit Website
                 </a>
               </div>
             </div>
@@ -75,8 +78,11 @@ export default function Experience() {
               </p>
               
               <p className="text-base md:text-lg text-gray-400">
-              ผมทำหน้าที่ ดูแล ปรับปรุงฟังก์ชันและแก้ไขข้อผิดพลาดต่างๆ เพื่อปรับปรุงประสิทธิภาพของเว็บไซต์ ที่มีปัญหาในการใช้งาน 
-              และได้รับโค้ดจากเพื่อนที่เป็น Developer ของเว็บไซต์
+                <ul>
+                    <li> 1. Maintained and fixed bugs while improving performance </li>
+                    <li> 2. Enhanced features to display data from Google Sheets </li>
+                    <li> 3. Adjusted layouts and updated content </li>
+                </ul>
               </p>
 
               <div className="pt-4 md:pt-6">
@@ -88,7 +94,7 @@ export default function Experience() {
                     transform transition duration-300 hover:scale-105 hover:text-yellow-500
                     hover:shadow-lg hover:shadow-yellow-500/20"
                 >
-                  เข้าสู่เว็บไซต์
+                  Visit Website
                 </a>
               </div>
             </div>

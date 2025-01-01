@@ -59,9 +59,7 @@ export default function Contact() {
                 />
               </span>
               <p className="text-gray-300 text-sm md:text-base">
-                169 หมู่ 19 บ้านทุ้งเฉลิมพระเกียรติ ต.เวียง อ.เทิง จ.เชียงราย 57160
-                <br className="hidden sm:block" />
-                เชียงราย, ประเทศไทย
+              169 Village No.2 Wiang, Thong, Chiang Rai, Thailand 
               </p>
             </div>
           </div>
